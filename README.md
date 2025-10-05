@@ -1,5 +1,3 @@
-# Guardians-of-the-Shannon-Designing-the-Future-of-Ireland-s-Living
-
 # 🦢 Guardians of the Shannon: Designing the Future of Ireland’s Living --
 
 ## SUMMARY 
